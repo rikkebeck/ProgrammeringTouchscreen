@@ -3,6 +3,12 @@ body {
     background-size: cover;
 }
 
+h1 {
+    color: rgb(96, 194, 255);
+    text-align: center;
+    margin-top: 80px;
+}
+
 #fisk {
     position: absolute;
     left: 0px;
