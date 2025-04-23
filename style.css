@@ -1,0 +1,53 @@
+body {
+    background-image: url(img/baggrund.jpg);
+    background-size: cover;
+}
+
+#fisk {
+    position: absolute;
+    left: 0px;
+    top: 400px;
+}
+
+#fisk2 {
+    position: absolute;
+    right: -100px;
+    top: 250px;
+}
+
+#fisk3 {
+    position: absolute;
+    left: 0px;
+    top: 100px;
+    z-index: -10;
+}
+
+#storFisk {
+    position: absolute;
+    width: 40%;
+    height: auto;
+    left: 50px;
+    top: 300px;
+    z-index: 100;
+    display: none;
+}
+
+#tekstBoks {
+    position: absolute;
+    right: 200px;
+    top: 100px;
+    z-index: 100;
+    display: none;
+}
+
+#fisk4 {
+    position: absolute;
+    left: 0px;
+    bottom: 50px;
+}
+
+#stjerne {
+    position: absolute;
+    right: 300px;
+    bottom: 50px;
+}
